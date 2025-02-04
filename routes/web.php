@@ -50,3 +50,4 @@ Route::post('/post-messege', [ContactFormController::class, 'post_messege']);
 
 
 Route::post('/home-mail', [HomeMailController::class, 'home_mail']);
+Route::post('/home-mail', [HomeMailController::class, 'home_mail']);
